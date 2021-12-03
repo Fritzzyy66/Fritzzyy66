@@ -1,4 +1,4 @@
-### Fala ai 
+### Fala ai 👀
 
 Sou o Arthur 🔭
 
