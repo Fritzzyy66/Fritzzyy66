@@ -1,6 +1,6 @@
-### Fala ai
+### Fala ai 
 
-Sou o Arthur '-'
+Sou o Arthur 🔭
 
 <!--
 **Fritzzyy66/Fritzzyy66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
