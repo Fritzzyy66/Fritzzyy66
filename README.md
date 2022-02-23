@@ -1,13 +1,16 @@
-### Olá! 
+# Hi, I'am Arthur!
+## Professional improvements and desires
 
-- 👋 Sou o Arthur! 
+- 📚 I'am studying web development with [The odin project](https://www.theodinproject.com/).
 
-- 🐍 Atualmente, estou estudando python com o objetibo de melhorar minha lógica de programação
+- 👨‍💻 Currently, my manjor desire is for working whit the backend
 
-- 💻 Pretendo estudar o framework Django para o backend
+- 🤝 For my first job, i have a preference in presidential work in order to immerse in a environment that will make me grow professionally
 
-- 🇬🇧 Possuo inglês intermediario, ou B1, no qual aprendi 100% por conta própria!
+## Curiositys about me!
 
-- 🖥️ Desejo trabalhar futuramente com desenvolvimento backend!
+- 📅 I'm 18 years old
 
-- 👨‍💻 Tenho interesse em diversas areas da tecnologia como: blockchain, inteligêngia artificial, ciência de dados, cyber security
+- 🇧🇷 I was born in Brazil and i never went to another country yet
+
+- 🐍 My first attempt to coding was with python language when i had 15, but stoped because of troubles with my laptop
