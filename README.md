@@ -3,7 +3,7 @@
 
 - 📚 I'am studying web development with [The odin project](https://www.theodinproject.com/).
 
-- 👨‍💻 Currently, my major desire is for working whith backend
+- 👨‍💻 Currently, my major desire is for working with backend
 
 - 🤝 For my first job, i have a preference in presential work in order to immerse in a environment that will make me grow professionally
 
