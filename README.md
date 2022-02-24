@@ -7,7 +7,7 @@
 
 - 🤝 For my first job, i have a preference in presential work in order to immerse in a environment that will make me grow professionally
 
-## Curiositys about me!
+## Curiosities about me!
 
 - 📅 I'm 18 years old
 
